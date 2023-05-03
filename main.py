@@ -1,5 +1,5 @@
 # ===============================================================================
-# Tarefa - Contar arroz em diferentes imagens
+# Tarefa - Chroma Key com suavização de contornos e balanceamento dos tons de verde.
 # -------------------------------------------------------------------------------
 # Autor: Mary Camila
 # ===============================================================================
